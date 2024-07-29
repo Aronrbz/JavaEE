@@ -1,2 +1,2 @@
 # JavaEE
-repositorio creado para entrega de desafíos evaluados pendientes
+Repositorio creado sobre Java Enterprise Edition
