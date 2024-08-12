@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.alert {
+    font-size: 18px;
+}
